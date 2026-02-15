@@ -107,5 +107,5 @@ git clone https://github.com/your-username/QuickTriage-AI.git
 cd QuickTriage-AI
 pip install -r requirements.txt
 streamlit run app.py
-
+live : https://quicktriage-ai-v4nqb8b7amui5awnfvvbex.streamlit.app/
 
