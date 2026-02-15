@@ -4,6 +4,13 @@
 
 QuickTriage‑AI is an AI-powered healthcare management system that analyzes patient symptoms and vital parameters to classify risk levels, recommend appropriate medical departments, and assist hospitals in efficient patient prioritization and appointment management.
 
+## 🌐 Live Demo
+
+🔗 **Live Application:**  
+https://quicktriage-ai-v4nqb8b7amui5awnfvvbex.streamlit.app/
+
+> Experience QuickTriage‑AI in real time through the deployed web application.
+
 ---
 
 ## 🚀 Problem Statement
@@ -107,5 +114,5 @@ git clone https://github.com/your-username/QuickTriage-AI.git
 cd QuickTriage-AI
 pip install -r requirements.txt
 streamlit run app.py
-live : https://quicktriage-ai-v4nqb8b7amui5awnfvvbex.streamlit.app/
+
 
